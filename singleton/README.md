@@ -46,3 +46,7 @@
 - Логгеры
 - Конфигураторы
 - Доступ к базе данных
+
+## Визуально
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/dMkWWuynGwM/0.jpg)](https://www.youtube.com/watch?v=dMkWWuynGwM)

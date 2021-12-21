@@ -22,7 +22,7 @@
 
 ## Структура
 
-![](./images/proxy.png)
+![](./images/visitor.png)
 
 ## Плюсы
 
@@ -49,3 +49,6 @@
 
 Посетитель позволяет определить поведение только для этих классов, оставив его пустым для всех остальных.
 
+## Визуально
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/OLvnrzflNV8/0.jpg)](https://www.youtube.com/watch?v=OLvnrzflNV8)
